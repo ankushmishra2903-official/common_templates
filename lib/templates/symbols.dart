@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:special_symbols/special_symbols.dart';
 
+/// flutter pub add special_symbols //my own in pub.dev
+
 class SpecialSymbolsExample extends StatelessWidget {
   final Map _symbols = {
     'SpecialSymbols.om': '${SpecialSymbols.om}',

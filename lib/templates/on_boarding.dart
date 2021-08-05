@@ -3,6 +3,8 @@ import 'package:flutter/material.dart';
 
 import '../home.dart';
 
+/// flutter pub add easy_onboarding
+
 class OnBoardingScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {

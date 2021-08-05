@@ -2,6 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter_shimmer/flutter_shimmer.dart';
 import 'package:shimmer_image/shimmer_image.dart';
 
+/// flutter pub add flutter_shimmer // for others
+/// flutter pub add shimmer_image // for image
+
 class SimmerExampleScreen extends StatelessWidget {
   const SimmerExampleScreen({Key? key}) : super(key: key);
 

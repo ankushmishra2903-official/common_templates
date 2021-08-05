@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:search_choices/search_choices.dart';
 
+/// flutter pub add search_choices
+
 class SearchableDropdownScreen extends StatefulWidget {
   @override
   _SearchableDropdownScreenState createState() => _SearchableDropdownScreenState();

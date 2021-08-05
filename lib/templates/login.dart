@@ -3,6 +3,8 @@ import 'package:flutter_login/flutter_login.dart';
 
 import '../home.dart';
 
+/// flutter pub add flutter_login
+
 const users = const {
   'test@gmail.com': '12345',
 };
